@@ -2030,6 +2030,7 @@
 				border-radius: 50%;
 				display: block;
 				width: 100%;
+
 			}
 
 /* List */
@@ -2539,7 +2540,7 @@
 					border: 0;
 					color: #ffffff !important;
 					display: block;
-					padding: 0.85em 0;
+					padding: 0.50em 0;
 					text-decoration: none;
 				}
 
